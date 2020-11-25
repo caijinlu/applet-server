@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.254.31:3306/OTO3?useUnicode=true&characterEncoding=utf-8
+    username: devuser
+    password: Userd@v2018
+    driverClassName: com.mysql.jdbc.Driver
+
+applets:
+  appid:  wx24c5e3366a16817f
+  secret: 003x4kGa1bxw2A0GLzFa1QMnlj0x4kGW
